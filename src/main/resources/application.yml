@@ -1,0 +1,5 @@
+twilio:
+  account_sid: "insert your account sid from your twilio console"
+  auth_token: "insert your auth token from your twilio console"
+  trial_number: "insert your trial number from your twilio console"
+
